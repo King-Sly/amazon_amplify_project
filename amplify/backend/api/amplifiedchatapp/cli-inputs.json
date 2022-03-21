@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "amplifiedchatapp",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\Kings\\Desktop\\PathToGoogle\\amplified-chat-app\\amplify\\backend\\api\\amplifiedchatapp\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
